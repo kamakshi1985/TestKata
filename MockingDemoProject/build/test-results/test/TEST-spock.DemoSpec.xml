@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="spock.DemoSpec" tests="6" skipped="0" failures="0" errors="0" timestamp="2019-07-26T14:10:56" hostname="WKKZF-PC359" time="0.132">
+  <properties/>
+  <testcase name="API to get name" classname="spock.DemoSpec" time="0.029"/>
+  <testcase name="API to save user" classname="spock.DemoSpec" time="0.002"/>
+  <testcase name="API to set name" classname="spock.DemoSpec" time="0.002"/>
+  <testcase name="API to set name -negative" classname="spock.DemoSpec" time="0.006"/>
+  <testcase name="API to get user id" classname="spock.DemoSpec" time="0.089"/>
+  <testcase name="API to print all params" classname="spock.DemoSpec" time="0.003"/>
+  <system-out><![CDATA[First Name
+Middle Name
+Last Name
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
